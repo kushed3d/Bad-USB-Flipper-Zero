@@ -1,3 +1,5 @@
+REM Made By Kushed3d
+
 GUI h
 DELAY 1000
 GUI SPACE
