@@ -2,7 +2,7 @@
 
 **How it works:**
 
-The script uses **powershell** to spam open a bunch of rickroll yt links
+The script uses **powershell** to set max volume and spam open a bunch of rickroll yt links
 
 **Note:**
 
