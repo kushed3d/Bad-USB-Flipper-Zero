@@ -1,0 +1,6 @@
+REM Made By Kushed3d
+DELAY 1000
+GUI r
+DELAY 1500
+STRING powershell -w h $k=[Math]::Ceiling(100/2);$o=New-Object -ComObject WScript.Shell;for($i=0;$i -lt $k;$i++){$o.SendKeys([char] 175)}; 1..10|foreach {saps https://www.youtube.com/watch?v=xvFZjo5PgG0;sleep 1;$o.SendKeys('f')}
+ENTER
