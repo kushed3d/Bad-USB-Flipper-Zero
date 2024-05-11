@@ -22,6 +22,9 @@ This repository contains a set of scripts made for the BadUSB/BadKB feature on F
 - Press the "``Download ZIP``" button
 - **Unzip** and drag into **qflipper**
 
+## Support ##
+- Contact [this email](fantasy.studios5915@gmail.com) for support
+
 ## Terms Of Use ##
 
 By downloading and using the scripts provided, you are automatically agreeing to the following Terms Of Use. If you do not agree, please, refrain from downloading or using the scripts.
