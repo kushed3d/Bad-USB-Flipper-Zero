@@ -1,4 +1,4 @@
-<h2 align="center"> Text-Demo </h2>
+<h2 align="center"> Windows-Text-Demo </h2>
 
 **How it works:**
 
