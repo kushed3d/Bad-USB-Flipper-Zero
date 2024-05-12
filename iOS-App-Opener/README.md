@@ -6,4 +6,4 @@ The script searches for your app of choice and opens it
 
 **Note:**
 
-You can change "TikTok" to whatever app you would like
+You can change `"TikTok"` to whatever app you would like
