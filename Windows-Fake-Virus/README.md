@@ -8,7 +8,4 @@ The script downloads and executes **Chilled-Windows** a fake virus exe
 
 Chilled-Windows is not open source. **Use at your own risk**
 
-
-
-**Repo for Chilled-Windows:**
-https://github.com/Squerys/chilledwindows
+**Chilled repo:** https://github.com/Squerys/chilledwindows
