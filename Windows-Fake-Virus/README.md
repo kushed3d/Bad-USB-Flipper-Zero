@@ -2,7 +2,7 @@
 
 **How it works:**
 
-The script downloads and executes **Chilled-Windows** a fake virus exe
+The script downloads and executes **Chilled-Windows** a fake virus
 
 **Note:**
 
