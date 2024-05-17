@@ -1,3 +1,4 @@
+REM Made By Kushed3d
 DEFAULT_DELAY 100
 
 GUI r
