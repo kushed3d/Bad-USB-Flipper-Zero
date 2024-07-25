@@ -23,7 +23,7 @@ This repository contains a set of scripts made for the BadUSB/BadKB feature on F
 - **Unzip** and drag into **qflipper**
 
 ## Support ##
-- Contact [this email](fantasy.studios5915@gmail.com) for support
+- Contact [my discord](https://discord.com/users/625461246040342529) for support
 
 ## Terms Of Use ##
 
